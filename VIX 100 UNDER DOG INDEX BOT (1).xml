@@ -817,7 +817,7 @@
                             <field name="OP">MULTIPLY</field>
                             <value name="A">
                               <shadow type="math_number" id="^k*rN+BEu)c{{:#rzM!d">
-                                <field name="NUM">1</field>
+                                <field name="NUM">2</field>
                               </shadow>
                               <block type="math_single" id="()U^#~H?bxTEY]{B^]TN">
                                 <field name="OP">ABS</field>
@@ -833,7 +833,7 @@
                             </value>
                             <value name="B">
                               <shadow type="math_number" id="BL{P=8hg}KN+Q!zeuLPZ">
-                                <field name="NUM">5</field>
+                                <field name="NUM">2</field>
                               </shadow>
                               <block type="variables_get" id=":gl}Zf|d#.@BHrbRbVHF">
                                 <field name="VAR" id="A(@*yZ~?v$$!4Sg3QJ:S" variabletype="">Martingale</field>
@@ -872,7 +872,7 @@
                             <mutation items="2"></mutation>
                             <value name="ADD0">
                               <block type="text" id="YriP:`UXrrS17`B:o3#s">
-                                <field name="TEXT">ISSA WIN💰</field>
+                                <field name="TEXT">cogratulations</field>
                               </block>
                             </value>
                             <value name="ADD1">
@@ -1060,7 +1060,7 @@
             <field name="VAR" id="K1#(Yp``RbnrOixGup+3" variabletype="">stake</field>
             <value name="VALUE">
               <block type="math_number" id="DCIJ/*N*Mn)OGMT`i8]Q">
-                <field name="NUM">0.36</field>
+                <field name="NUM">1</field>
               </block>
             </value>
             <next>
@@ -1068,7 +1068,7 @@
                 <field name="VAR" id="t6)FRH@rK@#PulS^T1b|" variabletype="">stake awal</field>
                 <value name="VALUE">
                   <block type="math_number" id="iUPmlY~4vmrwM^kp0Yl-">
-                    <field name="NUM">0.36</field>
+                    <field name="NUM">1</field>
                   </block>
                 </value>
                 <next>
@@ -1084,7 +1084,7 @@
                         <field name="VAR" id="A(@*yZ~?v$$!4Sg3QJ:S" variabletype="">Martingale</field>
                         <value name="VALUE">
                           <block type="math_number" id="8)Lu$*tcV3|~PLN!Tn?g">
-                            <field name="NUM">5</field>
+                            <field name="NUM">2</field>
                           </block>
                         </value>
                         <next>
@@ -1148,7 +1148,7 @@
                 </value>
                 <value name="AT">
                   <block type="math_number" id="C6FIyTqeZ#qW%;T7j%{G">
-                    <field name="NUM">1</field>
+                    <field name="NUM">0</field>
                   </block>
                 </value>
               </block>
@@ -1166,7 +1166,7 @@
                     </value>
                     <value name="AT">
                       <block type="math_number" id="X%jfP_n|!7gyhvFoYr[A">
-                        <field name="NUM">2</field>
+                        <field name="NUM">1</field>
                       </block>
                     </value>
                   </block>
@@ -1184,7 +1184,7 @@
                         </value>
                         <value name="AT">
                           <block type="math_number" id="=CQAKKk1,Mq(qtdLN8pm">
-                            <field name="NUM">3</field>
+                            <field name="NUM">2</field>
                           </block>
                         </value>
                       </block>
@@ -1202,7 +1202,7 @@
                             </value>
                             <value name="AT">
                               <block type="math_number" id="05z14jYt_ncnh2!,+,PR">
-                                <field name="NUM">4</field>
+                                <field name="NUM">3</field>
                               </block>
                             </value>
                           </block>
@@ -1220,7 +1220,7 @@
                                 </value>
                                 <value name="AT">
                                   <block type="math_number" id="KW1)LbZr/:M6]TFBwTAb">
-                                    <field name="NUM">5</field>
+                                    <field name="NUM">4</field>
                                   </block>
                                 </value>
                               </block>
@@ -1245,7 +1245,7 @@
                                                 </value>
                                                 <value name="B">
                                                   <block type="math_number" id="z:B#T+[`3a1.G%Je)j2P">
-                                                    <field name="NUM">1</field>
+                                                    <field name="NUM">5</field>
                                                   </block>
                                                 </value>
                                               </block>
@@ -1280,7 +1280,7 @@
                                                 </value>
                                                 <value name="B">
                                                   <block type="math_number" id="B/n)|js1U}A;{NLO|Vj5">
-                                                    <field name="NUM">8</field>
+                                                    <field name="NUM">5</field>
                                                   </block>
                                                 </value>
                                               </block>
@@ -1320,12 +1320,12 @@
                                                 <field name="OP">LTE</field>
                                                 <value name="A">
                                                   <block type="variables_get" id="9EvSf*_mI0Hw{J@?o%a{">
-                                                    <field name="VAR" id="7CYT*WFv0;,@?@G-*^Sx" variabletype="">T4</field>
+                                                    <field name="VAR" id="7CYT*WFv0;,@?@G-*^Sx" variabletype="">T2</field>
                                                   </block>
                                                 </value>
                                                 <value name="B">
                                                   <block type="math_number" id="#^0,)-Rg^=iMl~(hp.iy">
-                                                    <field name="NUM">1</field>
+                                                    <field name="NUM">6</field>
                                                   </block>
                                                 </value>
                                               </block>
@@ -1340,7 +1340,7 @@
                                                 </value>
                                                 <value name="B">
                                                   <block type="math_number" id="AL~.gc-x[ooyXlLSqykQ">
-                                                    <field name="NUM">1</field>
+                                                    <field name="NUM">7</field>
                                                   </block>
                                                 </value>
                                               </block>
@@ -1390,12 +1390,12 @@
                                                 <field name="OP">GTE</field>
                                                 <value name="A">
                                                   <block type="variables_get" id="QnjSKL`;-dL4KS5./W|I">
-                                                    <field name="VAR" id="cd_3dTxwKs;po0BO-EL%" variabletype="">T3</field>
+                                                    <field name="VAR" id="cd_3dTxwKs;po0BO-EL%" variabletype="">T5</field>
                                                   </block>
                                                 </value>
                                                 <value name="B">
                                                   <block type="math_number" id="A|%!?BMQ%=7Polhyr$Jn">
-                                                    <field name="NUM">8</field>
+                                                    <field name="NUM">9</field>
                                                   </block>
                                                 </value>
                                               </block>
@@ -1517,7 +1517,7 @@
                 </value>
                 <value name="PREDICTION">
                   <shadow type="math_number" id="4vSHbOe@ivY%7SV?=e`M">
-                    <field name="NUM">8</field>
+                    <field name="NUM">1</field>
                   </shadow>
                 </value>
               </block>
@@ -2050,7 +2050,7 @@
             </value>
             <value name="ADD3">
               <block type="text" id="Mi$B)`+]e%A8{_kn).m|">
-                <field name="TEXT">صَلَّى اللهُ عَلَى مُحَمَّد</field>
+                <field name="TEXT">milionaires/field>
               </block>
             </value>
           </block>
